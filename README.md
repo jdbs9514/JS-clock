@@ -1,15 +1,14 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# JavaScript Time
 
-> Description the project.
+> In this exercise i decide to display the local time hour, and date and make a dinamic clock.
 
+![](/image/js_clock.png)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML / CSS
+- JavaScript
 
 ## Live Demo (if available)
 
@@ -18,39 +17,26 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+- HTML5
+- CSS3
+- JavaScript
 ### Setup
-
-### Install
+- clone this repo
 
 ### Usage
-
-### Run tests
-
-### Deployment
-
+- Live server
 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@jdbs9514](https://github.com/jdbs9514)
+- LinkedIn: [Josué](https://linkedin.com/in/macoin)
 
 ## 🤝 Contributing
 
